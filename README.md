@@ -109,6 +109,3 @@ plt.show()
 * Comparar: menor **faturamento**, menor **participação nas top categorias**, **avaliação** sem vantagem, **mix** fraco e **frete médio** alto.
 * No conjunto analisado, a **Loja 4** foi indicada para venda (confirme com seus resultados no notebook).
 
-## Licença
-
-Defina a licença do projeto (ex.: MIT).
